@@ -1,6 +1,6 @@
-### Hello World 👋 It's [Preksha Vaghela!](https://main.ds49mo9i3v7i.amplifyapp.com/)
+### Hello World 👋 It's [Preksha Vaghela!](https://preksha-vaghela-website.vercel.app/)
 
-## This is the link to my personal website. [Preksha Vaghela Website](https://main.ds49mo9i3v7i.amplifyapp.com/)
+## This is the link to my personal website. [Preksha Vaghela Website](https://preksha-vaghela-website.vercel.app/)
 
 # My github Projects:
 - Smart Kitchen Code
